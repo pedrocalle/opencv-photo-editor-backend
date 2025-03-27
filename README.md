@@ -1,4 +1,4 @@
-# Backend
+# OpenCV Photo Editor Backend
 
 To start your Phoenix server:
 
